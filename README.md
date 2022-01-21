@@ -1,11 +1,11 @@
 ### Hi there, I'm Luis 👋
-## I'm a Developer, Father, Kung Fu Master and Lego addicted
+## I'm a Developer, Father, Kung Fu Master and Lego fan
 
-- 🏢 I'm currently working at [OAT](https://github.com/oat-sa)
+- 🏢 I'm currently working at [Ankorstore](https://boards.eu.greenhouse.io/ankorstore?gh_src=257cb552teu)
 - 🏠 Living in the Grand Duchy of Luxembourg
-- 🌱 Always curious and learning everything
-- 🥅 2021 Goals: Get AWS certified and start learning ML
-- ⚡ Fun fact: Did I said I'm a Lego addicted?
+- 🌱 Always curious and learning what I can
+- 🥅 2022 Goals: Get used to topics as Kubernetes and Service Mesh
+- ⚡ Fun fact: Did I said I'm a Lego fan?
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
