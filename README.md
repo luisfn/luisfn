@@ -1,7 +1,7 @@
 ### Hi there, I'm Luis 👋
 ## I'm a Developer, Father, Kung Fu Master and Lego fan
 
-- 🏢 I'm currently working at [Ankorstore](https://boards.eu.greenhouse.io/ankorstore?gh_src=257cb552teu)
+- 🏢 I'm currently working at [Lendable (UK)](https://careers.lendable.com/)
 - 🏠 Living in the Grand Duchy of Luxembourg
 - 🌱 Always curious and learning what I can
 - 🥅 2022 Goals: Get used to topics as Kubernetes and Service Mesh
